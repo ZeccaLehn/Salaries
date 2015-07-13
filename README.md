@@ -1,5 +1,5 @@
-# Salaries
-##Pylthon Flask API -- Returns salaries for employees in City of Chicago. Please observe any Copyright changes.
+
+##Pylthon Flask API Template-- Salaries for employees in City of Chicago. Please observe any Copyright changes.
 
 #### Modified from Naren Arya's Flask tutorial:  https://impythonist.wordpress.com/2015/07/12/build-an-api-under-30-lines-of-code-with-python-and-flask/
 

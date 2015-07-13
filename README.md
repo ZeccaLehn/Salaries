@@ -75,8 +75,9 @@
 	#http://localhost:5000/dept/family%20&%20support  # "%20&%20" denotes " & "
 
 
-  # Note:
-	# (rest-api)# deactivate #To get out of virtualenv
+  # Note: To get out of virtualenv
+	# (rest-api)
+	deactivate 
 
 
 

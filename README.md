@@ -6,7 +6,7 @@
 
 #### 1. Create Project folder named 'Salaries' in home directory
 #### 2. Download repo, unzip
-#### 3. Extract 'app.py' 'employee_chicago.csv' and 'Instructions.txt' into the new folder "Salaries"
+#### 3. Extract 'app.py' 'employee_chicago.csv' and 'Instructions.txt' into the new folder "Salaries", or just clone the repo and skip steps 1 and 2.
 #### 4. Open Linux Terminal and set pwd using "$  cd ~/Salaries " -- sets as present working directory
 #### 5. Run the code below ("$" for Linux Terminal User and ">" for sqlite3:
 
